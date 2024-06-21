@@ -1,0 +1,5 @@
+# Ignore local file paths
+**/V-Python/
+**C:
+Ai/game_data
+**Ai/hyperband
